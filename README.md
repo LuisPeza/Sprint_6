@@ -1,4 +1,4 @@
-<h1> Sprint_6 </h1>
+<h1>Proyecto_6 </h1>
 Proyecto 6 de Tienda online ICE
 <h2>Descripción del proyecto</h2>
 
